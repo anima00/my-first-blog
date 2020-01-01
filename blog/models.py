@@ -1,4 +1,4 @@
-# Create your models here.
+# blog/models.pyの修正
 
 from django.conf import settings
 from django.db import models
